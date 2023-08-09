@@ -1,5 +1,108 @@
 # Changelog    
 All notable changes to this project will be documented in this file.
+
+## v1.50
+**ECONOMY REBALANCE**
+- Easier to make money
+- drugs worth more
+- jobs pay more
+- item cost reductions and balances
+- crafting balances pt. 1
+- **Asset changes**
+   - updates to the following scripts and assets:
+      -   ap-court
+      -   ap-government
+      -   blips_creator
+      -   bmx_cinemadoppler
+      -   dd-nailShop-qb
+      -   dirk-bounties
+      -   dirk-druglabsv2
+      -   dirkdrugz
+      -   dirk-weed
+      -   doors_creator
+      -   drugs_creator
+      -   fd_radio
+      -   DMShared
+      -   gksphone
+      -   grappler
+      -   hollywoodiownu_panda_bear
+      -   idrp_atom_props
+      -   idrp_pizzathis_props
+      -   idrp_uwu_props
+      -   jim-burgershot
+      -   jim-popsdiner
+      -   jim_vanillaunicorn
+      -   kq_carheist
+      -   kq_lootareas
+      -   Pata_GamerOffice
+      -   Pata_garden
+      -   Pata_NurseryProps
+      -   Pata_NurseryPropsControl
+      -   Pata_OfficeClassic
+      -   Pata_PinkOffice
+      -   Pata_RcRace
+      -   Pata_StreamLightPropsControl
+      -   patoche_bumpercar
+      -   pd_chess
+      -   pd_image_placer
+      -   qb_gas_stations
+      -   qb-beekeeping
+      -   qb-carboosting
+      -   qb-prisonjobs
+      -   qb-wheelstancer
+      -   randol_emsnpc
+      -   rcore_camping
+      -   rcore_camping_assets
+      -   rcore_carnival
+      -   rcore_carnival_assets
+      -   rcore_darts
+      -   rcore_gangs
+      -   rcore_gunrange
+      -   rcore_pdm
+      -  rcore_radiocar
+      -  rcore_spray
+      -   rcore_spray_assets
+      -   robberies_creator
+      -   rcore_stickers
+      -   rcore_tattoos
+      -   rcore_television
+      -   starchase
+      -   truck_logistics
+      -   tv_scaleform
+      -   voodoo_dooballoo
+      -   brutal_pets
+      -   sd_lib
+      -   sd-bobcat
+      -   sd-cokemission
+      -   sd-oxyrun
+      -   sd-warehouse
+      -   sh-rcCars
+      -   SleepOrSex
+      -   tgiann-core
+      -   tgiann-erpv2
+      -   tgiann-naked
+      -   truck-logistics
+   - removed the following assets:
+      - Reduced Car Pack by 7.2GB
+      -  cc_irishpub
+      -  huntcabin
+      -  brofx_mafia
+      -  brofx_mansion_18
+      -  cfx_gabz-altruists
+      -  cfx_gabz-bowling
+      -  cfx_gabz-marabunta
+      -  cfx_gabz-mba
+      -  cfx_gabz-sandypd
+      -  csafemlo- grapeseed gang house
+      -  forest_mansion
+      -  int_lodge
+      -  int_yatchclub
+      -  lafa2k_modernhouse
+      -  map-little-seoul_compound
+      -  opendoor_madrazo
+      -  potoche_beachgame
+      -  potochevillage
+      -  ultra-racetrack    
 ## v1.117
 - **Asset changes**
    - updates to the following scripts and assets:
